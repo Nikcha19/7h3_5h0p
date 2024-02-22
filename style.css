@@ -63,7 +63,7 @@ body{
 }
 .searchInput{
     border: 1px solid #F2F2ED;
-    background: url(./mockup_the_shop/icons/search.svg) white 95% no-repeat;
+    background: url(./the_shop/icons/search.svg) white 95% no-repeat;
     background-size: auto 60%;
     padding: 5px 10px 5px 0;
     height: 5%;
@@ -153,7 +153,7 @@ h1{
 }
 .later{
     padding-left: 35px;
-    background:url(./mockup_the_shop/icons/heart.svg) no repeat;
+    background:url(./the_shop/icons/heart.svg) no repeat;
     margin-top: 15px;
     height: 20px;
 }
@@ -199,15 +199,15 @@ ul{
 }
 .bonus-delivery{
     padding-left: 40px;
-    background: url(./mockup_the_shop/icons/delivery.svg) no-repeat;
+    background: url(./the_shop/icons/delivery.svg) no-repeat;
 }
 .bonus-heart{
     padding-left: 40px;
-    background: url(./mockup_the_shop/icons/heart.svg) 20px 0 no-repeat;
+    background: url(./the_shop/icons/heart.svg) 20px 0 no-repeat;
 }
 .bonus-cup{
     padding-left: 40px;
-    background: url(./mockup_the_shop/icons/cup.svg) 20px 0 no-repeat;
+    background: url(./the_shop/icons/cup.svg) 20px 0 no-repeat;
 }
 .social-item{
     width: 20px;
